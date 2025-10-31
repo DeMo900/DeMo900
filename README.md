@@ -14,6 +14,7 @@ I’m a backend-focused web developer who enjoys building clean, reliable, and e
 ![](https://github-readme-stats.vercel.app/api?username=DeMo900&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DeMo900&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeMo900&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<img width="676" height="614" alt="image" src="https://github.com/user-attachments/assets/21ec818d-61d7-4520-bd9c-3e8bde013954" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DeMo900&icon=0&color=0)](https://visitcount.itsvg.in)
